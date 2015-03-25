@@ -2,18 +2,15 @@
 layout: post
 title: "Shell Tricks"
 categories:
-- Tech
+- Technology
 tags:
 - shell
 
 
 ---
 
-##此处收集经典好用的Shell技巧，记录以便查阅和分享
-
-##Enjoy Shell！~
-
 	rm -rf !(\*.html)   
+	
 删除除了\*.html之外的所有文件
 
 	ping -c3 www.tecmint.com && links www.tecmint.com	

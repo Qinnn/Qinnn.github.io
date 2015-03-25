@@ -5,9 +5,7 @@ comments: no
 
 ---
 
-Ohce Qin
-
-I am new to jekyll and GitHub
+###Ohce Qin
 
 ---
 
@@ -26,6 +24,3 @@ GitHub : [http://github.com/{{ site.github }}](http://github.com/{{ site.github 
 
 
 This bolg is cloned from [webfrog](https://github.com/webfrogs/webfrogs.github.com), thanks for providding such a beautiful theme.
-
-----
-

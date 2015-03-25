@@ -2,7 +2,7 @@
 layout: post
 title: "Markdown grammar (in simplified Chinese)"
 categories:
-- Tech
+- Technology
 tags:
 - Markdown
 
@@ -133,7 +133,7 @@ Markdown 将会把它转换为：
 
 如果你*确实*想要依赖 Markdown 来插入 `<br />` 标签的话，在插入处先按入两个以上的空格然后回车。
 
-的确，需要多费点事（多加空格）来产生 `<br />` ，但是简单地「每个换行都转换为 `<br />`」的方法在 Markdown 中并不适合， Markdown 中 email 式的 [区块引用][bq] 和多段落的 [列表][l] 在使用换行来排版的时候，不但更好用，还更方便阅读。
+的确，需要多费点事（多加空格）来产生 `<br />` ，但是简单地「每个换行都转换为 `<br />`」的方法在 Markdown 中并不适合， Markdown 中 email 式的 [区块引用][bq]和多段落的 [列表][l] 在使用换行来排版的时候，不但更好用，还更方便阅读。
 
   [bq]: #blockquote
   [l]:  #list

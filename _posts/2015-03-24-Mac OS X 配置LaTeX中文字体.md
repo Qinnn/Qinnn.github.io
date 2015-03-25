@@ -2,7 +2,7 @@
 layout: post
 title: "Mac OS X 配置LaTeX的中文字体"
 categories:
-- Tech
+- Technology
 tags:
 - Mac LaTeX
 
@@ -10,13 +10,14 @@ tags:
 ---
 
 我的软件环境是：
+
  操作系统：Mac OS X Yosemite 10.10.2
+ 
  TeX系统：MacTeX 2014
 
 
  CTeX包提供了较为完善的中文支持，排版的方案（例如段落缩进）也符合中国人的习惯，但是CTeX是基于Windows设计的，在移植到Mac时会出现一些小问题。主要是字体的问题，CTeX中默认使用的SimSun等字体在Mac OS中并不存在，取而代之的是“华文宋体”等华文系列的字体。因此如果不配置，会因找不到字体而出现编译错误。另外，在Windows中常用的“隶书”和“幼圆”两种字体，在Mac OS中根本不存在，也没有可以替换的字体。
- 对于缺失的隶书和幼圆，我们使用Windows中的字体，下载地址是
-<url>http://tinker-bot.googlecode.com/files/cfonts.tar.gz</url>
+ 对于缺失的隶书和幼圆，我们使用Windows中的字体，下载地址是(http://tinker-bot.googlecode.com/files/cfonts.tar.gz)
  我们只用到其中的simli.ttf和simyou.ttf这两个字体。另外的4的Adobe字体在我的系统中已经自带（也可能是我安装Photoshop时装上的？）
  打开应用程序中的“字体册”，点“所有字体”，再在菜单栏中点“文件”-“添加字体”，选择从刚下载的压缩包中解压出的simli.ttf和simyou.ttf，你也可以点击“中文”标签来检查一下四个Adobe字体是否已经自带，如果没有，就在添加字体时把它们也加进来。默认情况下字体会安装到你的用户文件夹下，如果你希望计算机上所有的用户都可以使用这些字体，可以在字体册偏好设置里设置将其安装到系统字体文件夹中（我是这么做的）。当然这需要你有root的口令。
  安装好字体后需要修改一下配置文件，在应用程序中打开终端，输入下列命令
