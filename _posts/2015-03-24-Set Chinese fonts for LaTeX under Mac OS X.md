@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac OS X 配置LaTeX的中文字体"
+title: "Set Chinese fonts for LaTeX under Mac OS X"
 categories:
 - Technology
 tags:
