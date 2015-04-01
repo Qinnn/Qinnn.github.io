@@ -15,6 +15,9 @@ This Masquerade
 *Carpenters*
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=3985490&auto=1&height=66"></iframe>
+
+<embed src="http://www.xiami.com/widget/0_1770598170/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+
  
 Are we really happy with this lonely game we play,
 
