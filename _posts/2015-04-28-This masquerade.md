@@ -14,9 +14,8 @@ This Masquerade
 
 *Carpenters*
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=3985490&auto=1&height=66"></iframe>
+<embed src="http://music.163.com/style/swf/widget.swf?sid=3985490&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
-<embed src="http://www.xiami.com/widget/0_1770598170/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
 
  
 Are we really happy with this lonely game we play,
@@ -63,3 +62,4 @@ And we're lost in a masquerade.
 
 Some music from movies can be quite impressive. This masquerade is from [L'amant](http://movie.douban.com/subject/1291868/), a good movie adapted from Marguerite Duras' book [L'amant](http://book.douban.com/subject/1400705/). This piece of music should be enjoyed together with some pale yellow sunshine in the twilight.
 
+By the way, [Netease cloud music](http://music.163.com/) is pretty good.
