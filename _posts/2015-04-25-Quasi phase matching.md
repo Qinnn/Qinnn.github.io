@@ -15,6 +15,6 @@ Quasi-phase-matching ensures that there is positive energy flow from the pump fr
 The most commonly used technique for creating quasi-phase-matched crystals is periodic poling.
 
 ---
-This page is from Wikipedia [Quasi-phase-matching](http://en.wikipedia.org/wiki/Quasi-phase-matching)
+This page is from Wikipedia [Quasi-phase-matching](http://en.wikipedia.org/wiki/Quasi-phase-matching) for a test.
 
 	

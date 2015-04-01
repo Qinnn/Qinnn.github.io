@@ -15,4 +15,4 @@ Second harmonic generation was first demonstrated by Peter Franken, A. E. Hill, 
 Generating the second harmonic, often called frequency doubling, is also a process in radio communication; it was developed early in the 20th century, and has been used with frequencies in the megahertz range. It is a special case of frequency multiplication.
 
 ---
-This page is from Wikipedia [Second harmonic generation](http://en.wikipedia.org/wiki/Second-harmonic_generation)
+This page is from Wikipedia [Second harmonic generation](http://en.wikipedia.org/wiki/Second-harmonic_generation) for a test.

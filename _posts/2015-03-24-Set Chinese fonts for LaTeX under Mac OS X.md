@@ -4,12 +4,13 @@ title: "Set Chinese fonts for LaTeX under Mac OS X"
 categories:
 - Technology
 tags:
-- Mac LaTeX
+- Mac
+- LaTeX
 
 
 ---
 
-我的软件环境是：
+软件环境：
 
  操作系统：Mac OS X Yosemite 10.10.2
  
