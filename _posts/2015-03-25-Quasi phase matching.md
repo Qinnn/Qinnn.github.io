@@ -4,7 +4,7 @@ title: "Quasi phase matching"
 categories:
 - Research
 tags:
-- nonlinear optics
+- Quasi phase matching
 
 ---
 

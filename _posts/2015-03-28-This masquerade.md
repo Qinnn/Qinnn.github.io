@@ -63,3 +63,6 @@ And we're lost in a masquerade.
 Some music from movies can be quite impressive. This masquerade is from [L'amant](http://movie.douban.com/subject/1291868/), a good movie adapted from Marguerite Duras' book [L'amant](http://book.douban.com/subject/1400705/). This piece of music should be enjoyed together with some pale yellow sunshine in the twilight.
 
 By the way, [Netease cloud music](http://music.163.com/) is pretty good.
+
+
+---

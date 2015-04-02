@@ -4,7 +4,7 @@ title: "Second harmonic generation"
 categories:
 - Research
 tags:
-- nonlinear optics
+- SHG
 
 ---
 
@@ -16,3 +16,5 @@ Generating the second harmonic, often called frequency doubling, is also a proce
 
 ---
 This page is from Wikipedia [Second harmonic generation](http://en.wikipedia.org/wiki/Second-harmonic_generation) for a test.
+
+---

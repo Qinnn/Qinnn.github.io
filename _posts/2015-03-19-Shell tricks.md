@@ -4,8 +4,7 @@ title: "Shell Tricks"
 categories:
 - Technology
 tags:
-- shell
-
+- Shell
 
 ---
 
