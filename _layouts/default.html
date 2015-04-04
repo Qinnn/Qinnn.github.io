@@ -44,6 +44,14 @@
       <div id="main" role="main">
         <header>
         <h1>{{ page.title }}</h1>
+        <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({
+                  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+                          });
+        </script>
+        <script type="text/javascript"
+            src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
         </header>
         <nav id="real_nav">
         <span><a title="home" class="" href="/">home</a></span>
@@ -66,7 +74,6 @@
         <p><small>
            Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a> @ <a href="http://github.com" target="_blank" title="GitHub homepage">GitHub</a> | Copyright 2014 - {{site.time | date:"%Y"}} by <a href="/about/">Qin</a> | <span class="label label-info" id="timeSpan"></span></small></p>
     </footer>
-
     </div>
   </body>
 </html>
