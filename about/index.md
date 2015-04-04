@@ -9,6 +9,10 @@ comments: no
 
 ---
 
+![a](/assets/a.png)
+
+
+---
 ###Contact me：
 
 {% if site.qq %}
