@@ -1,6 +1,6 @@
 ---
-layout:post
-title:"Raman scattering"
+layout: post
+title: "Raman scattering"
 categories:
 - Research
 tags:
