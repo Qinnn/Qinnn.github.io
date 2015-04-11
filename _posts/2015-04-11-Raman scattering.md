@@ -23,6 +23,7 @@ In 1998 the Raman effect was designated a National Historic Chemical Landmark by
 
 ---
 
+
 ###Molecular vibrations and infrared radiation###
 
 The frequencies of molecular vibrations range from less than 1012 to approximately 1014 Hz. These frequencies correspond to radiation in the infrared (IR) region of the electromagnetic spectrum. At any given instant, each molecule in a sample has a certain amount of vibrational energy. However, the amount of vibrational energy that a molecule has continually changes due to collisions and other interactions with other molecules in the sample.
