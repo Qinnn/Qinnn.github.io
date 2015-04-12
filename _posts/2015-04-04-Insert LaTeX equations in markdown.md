@@ -47,7 +47,7 @@ forkosh上提供了关于$$\LaTeX$$公式的一份简短而很有用的帮助，
 
 ###方法三：使用MathJax引擎
 
-在网页中使用$$\LaTeX$$最流行的解决方案应该是MathJax。这是一个基于JavaScript的$$\Latex$$渲染引擎，它将网页中的$$\LaTeX$$公式转变成多个不同字体的文字或图片的组合。
+在网页中使用$$\LaTeX$$最流行的解决方案应该是MathJax。这是一个基于JavaScript的$$\LaTeX$$渲染引擎，它将网页中的$$\LaTeX$$公式转变成多个不同字体的文字或图片的组合。
 
 在Github的Page中使用数学公式，也就是在Jekyll中使用数学公式，MathJax似乎是唯一的选择。
 
