@@ -34,7 +34,7 @@ $$
 E=h \nu
 $$
 
-where h is Planck’s constant and \nu is the frequency of the radiation. Thus, the energy required for such a transition may be calculated if the frequency of the incident radiation is known.
+where $$h$$ is Planck's constant and $$\nu$$ is the frequency of the radiation. Thus, the energy required for such a transition may be calculated if the frequency of the incident radiation is known.
 
 ###Raman scattering###
 
@@ -77,9 +77,7 @@ Stimulated Raman scattering is a nonlinear-optical effect. It can be described u
 
 Suppose that the distance between two points A and B of an exciting beam is $$x$$. Generally, as the exciting frequency is not equal to the scattered Raman frequency, the corresponding relative wavelengths $$\lambda$$ and $$\lambda '$$ are not equal. Thus, a phase-shift $$\Theta = 2\pi x (1 / \lambda - 1 / \lambda ' )$$ appears. For $$\Theta = \pi$$, the scattered amplitudes are opposite, so that the Raman scattered beam remains weak.
 
-- A crossing of the beams may limit the path $$x$$.
-
-Several tricks may be used to get a larger amplitude:
+- A crossing of the beams may limit the path $$x$$. Several tricks may be used to get a larger amplitude:
 
 - In an optically anisotropic crystal, a light ray may have two modes of propagation with different polarizations and different indices of refraction. If energy may be transferred between these modes by a quadrupolar (Raman) resonance, phases remain coherent along the whole path, transfer of energy may be large. It is an Optical parametric generation.
 
