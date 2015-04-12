@@ -13,5 +13,5 @@ weibo: 949280422
 github: Qinnn
 safe: true
 #paginate: 20
-truncate: 300 #首页文字摘要
+#truncate: 300 #首页文字摘要
 paginate: 20 #首页分页

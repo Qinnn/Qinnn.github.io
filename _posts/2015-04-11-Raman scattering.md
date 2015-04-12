@@ -34,7 +34,7 @@ $$
 E=h \nu
 $$
 
-where $$h$$ is Plank's constant and $$\nu$$ is the frequency of the radiation. Thus, the energy required for such a transition may be calculated if the frequency of the incident radiation is known.
+where $$h$$ is Plank's constant and $$\nu$$ is the frequency of the radiation. Thus, the energy required for such a transition may be calculated if the frequency of the incident radiation is known. it's not funny.
 
 ###Raman scattering###
 
