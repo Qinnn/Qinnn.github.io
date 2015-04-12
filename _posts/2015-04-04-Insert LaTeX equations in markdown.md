@@ -10,7 +10,7 @@ tags:
 
 ---
 Markdown自由书写的特性很好，唯独遇到数学公式时稍稍有些麻烦，
-本文的方法使用html的语法，调用一些公式生成API [1]，在线生成$$\Large\LaTeX$$数学公式，免去将公式保存为图片的麻烦。弊端是： 公式太多时，可能会造成刷新比一般的网页慢一些。
+本文的方法使用html的语法，调用一些公式生成API [1]，在线生成$$\LaTeX$$数学公式，免去将公式保存为图片的麻烦。弊端是： 公式太多时，可能会造成刷新比一般的网页慢一些。
 
 ###方法一：使用Google Chart的服务器
 
@@ -75,22 +75,25 @@ kramdown是一个Markdown解析器，它能够正确解释公式内部的符号�
 		src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 	</script>
 
-####第三步，在Markdown中使用$$\large\LaTeX$$数学公式
+####第三步，在Markdown中使用$$\LaTeX$$数学公式
 行内公式：`$$E=mc^2$$ is a inline formula`,效果为：$$E=mc^2$$ is a inline formula.
 
 行间公式：
 
 	$$ 
-	\begin{aligned} \dot{x} &= \sigma(y-x) \\ 
+	\begin{aligned} 
+	\dot{x} &= \sigma(y-x) \\ 
 	\dot{y} &= \rho x - y - xz \\ 
-	\dot{z} &= -\beta z + xy \end{aligned} 
+	\dot{z} &= -\beta z + xy 
+	\end{aligned} 
 	$$
 
 
 效果为：
 
 $$
-\begin{aligned} \dot{x} &= \sigma(y-x) \\ 
+\begin{aligned} 
+\dot{x} &= \sigma(y-x) \\ 
 \dot{y} &= \rho x - y - xz \\ 
 \dot{z} &= -\beta z + xy \end{aligned} 
 $$
@@ -99,9 +102,11 @@ $$
 
 	$$
 	\Large
-	\begin{aligned} \dot{x} &= \sigma(y-x) \\ 
+	\begin{aligned} 
+	\dot{x} &= \sigma(y-x) \\ 
 	\dot{y} &= \rho x - y - xz \\ 
-	\dot{z} &= -\beta z + xy \end{aligned} 
+	\dot{z} &= -\beta z + xy 
+	\end{aligned} 
 	$$
 
 ###参考
