@@ -92,6 +92,7 @@ kramdown是一个Markdown解析器，它能够正确解释公式内部的符号�
 效果为：
 
 $$
+\Large
 \begin{aligned} 
 \dot{x} &= \sigma(y-x) \\ 
 \dot{y} &= \rho x - y - xz \\ 
