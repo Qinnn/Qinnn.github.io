@@ -4,7 +4,7 @@ title: "Graduation trip"
 categories:
 - Life
 tags:
-- Graduation trip
+- Travel
 
 ---
 6.20-Wuhan
