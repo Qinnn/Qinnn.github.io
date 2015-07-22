@@ -7,12 +7,15 @@ tags:
 - Travel
 
 ---
-6.20 Wuhan
+6.20 **Wuhan**
 
-Set off right after Graduation, Farewell, HUST!
+Set off right after Graduation.
+
+Farewell, HUST!
+
 ---
 
-6.21--6.22 Ganzhou
+6.21--6.22 **Ganzhou**
 
 <iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165844&authkey=ANiUC2xp8DSjF0k" width="320" height="180" frameborder="0" scrolling="no"></iframe>
 
@@ -20,7 +23,7 @@ Special thanks to Yuan Jingbo and his family.
 
 ---
 
-6.23--6.26 Guiling
+6.23--6.26 **Guiling**
 
 <iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165845&authkey=AMEGbDK0_VJcaKk" width="320" height="180" frameborder="0" scrolling="no"></iframe>
 
@@ -36,13 +39,14 @@ Special thanks to Liang Guozhou.
 
 ---
 
-6.27--6.28 Chengdu
+6.27--6.28 **Chengdu**
 
 ---
 
-6.30--7.02 Xining--Qinghai Lake
+6.30--7.02 **Xining**--**Qinghai Lake**
 
 <iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165853&authkey=AGu7sQ3XPQJIDBg" width="180" height="320" frameborder="0" scrolling="no"></iframe>
+
 
 <iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165854&authkey=ADxgQKckpbBm05o" width="320" height="180" frameborder="0" scrolling="no"></iframe>
 
@@ -64,11 +68,11 @@ Special thanks to Liang Guozhou.
 
 --
 
-7.03--7.05 Jiayuguan
+7.03--7.05 **Jiayuguan**
 
 --
 
-7.06--7.08 Dunhuang
+7.06--7.08 **Dunhuang**
 
 
 
