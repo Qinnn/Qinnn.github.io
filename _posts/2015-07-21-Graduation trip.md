@@ -26,11 +26,8 @@ Special thanks to Yuan Jingbo and his family.
 6.23--6.26 **Guiling**
 
 <iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165845&authkey=AMEGbDK0_VJcaKk" width="320" height="180" frameborder="0" scrolling="no"></iframe>
-
 <iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165846&authkey=ABBgQgFk_4xIGug" width="320" height="180" frameborder="0" scrolling="no"></iframe>
-
 <iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165847&authkey=AEQuevghQIgNV6E" width="320" height="180" frameborder="0" scrolling="no"></iframe>
-
 <iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165848&authkey=ALJTILpSfXq3r-k" width="320" height="180" frameborder="0" scrolling="no"></iframe>
 
 <iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165849&authkey=ALQgdZ7RBf_DqE0" width="320" height="180" frameborder="0" scrolling="no"></iframe>
@@ -130,4 +127,3 @@ Special thanks to Qin Yating!
 
 ---
 
-<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2162182&authkey=AFYwfw4I_rZAcmM&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
