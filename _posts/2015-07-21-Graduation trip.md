@@ -110,11 +110,7 @@ Special thanks to Liang Guozhou.
 
 <iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165883&authkey=AOvF-1pkM0ERjlQ" width="320" height="180" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165880&authkey=ABMpso-u6y3LA60" width="320" height="180" frameborder="0" scrolling="no"></iframe>
-
 <iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165881&authkey=AK4JIz5XJeO34xk" width="320" height="180" frameborder="0" scrolling="no"></iframe>
-
-<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165882&authkey=AK8x_6IrNuAPGi4" width="320" height="180" frameborder="0" scrolling="no"></iframe>
 
 ---
 
