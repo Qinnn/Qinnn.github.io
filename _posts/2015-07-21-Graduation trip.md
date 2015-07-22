@@ -7,8 +7,41 @@ tags:
 - Travel
 
 ---
-**Raman scattering** or the **Raman effect** /ˈrɑːmən/ is the inelastic scattering of a photon. It was discovered by C. V. Raman and K. S. Krishnan in liquids,and by G. Landsberg and L. I. Mandelstam in crystals.The effect had been predicted theoretically by Adolf Smekal in 1923.
+6.20 Wuhan
 
-When photons are scattered from an atom or molecule, most photons are elastically scattered (Rayleigh scattering), such that the scattered photons have the same energy (frequency and wavelength) as the incident photons. A small fraction of the scattered photons (approximately 1 in 10 million) are scattered by an excitation, with the scattered photons having a frequency different from, and usually lower than, that of the incident photons. In a gas, Raman scattering can occur with a change in energy of a molecule due to a transition.
+---
+
+6.21--6.22 Ganzhou
+
+<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165844&authkey=ANiUC2xp8DSjF0k" width="320" height="180" frameborder="0" scrolling="no"></iframe>
+
+---
+
+6.23--6.26 Guiling
+
+<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165845&authkey=AMEGbDK0_VJcaKk" width="320" height="180" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165846&authkey=ABBgQgFk_4xIGug" width="320" height="180" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165847&authkey=AEQuevghQIgNV6E" width="320" height="180" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165848&authkey=ALJTILpSfXq3r-k" width="320" height="180" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165849&authkey=ALQgdZ7RBf_DqE0" width="320" height="180" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165850&authkey=AGVijd0vTontCqk" width="320" height="70" frameborder="0" scrolling="no"></iframe>
+
+
+---
+
+6.27--6.28 Chengdu
+
+6.30--7.02 Qinghai Lake
+
+7.03--7.05 Jiayuguan
+
+7.06--7.08 Dunhuang
+
+
 
 ---
