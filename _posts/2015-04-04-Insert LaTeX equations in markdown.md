@@ -80,13 +80,11 @@ kramdown是一个Markdown解析器，它能够正确解释公式内部的符号�
 
 行间公式：
 
-{% highlight latex %} 
 	\begin{aligned} 
 	\dot{x} &= \sigma(y-x) \\ 
 	\dot{y} &= \rho x - y - xz \\ 
 	\dot{z} &= -\beta z + xy 
 	\end{aligned} 
-{% highlight latex %}
 
 
 效果为：
