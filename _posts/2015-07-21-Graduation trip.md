@@ -9,8 +9,6 @@ tags:
 ---
 6.20 **Wuhan**
 
-Set off right after Graduation.
-
 Farewell, HUST!
 
 ---
