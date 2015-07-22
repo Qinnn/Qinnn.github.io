@@ -43,7 +43,7 @@ Special thanks to Liang Guozhou.
 
 ---
 
-6.30--7.02 **Xining**--**Qinghai Lake**
+6.29--7.01 **Xining**--**Qinghai Lake**
 
 <iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165853&authkey=AGu7sQ3XPQJIDBg" width="180" height="320" frameborder="0" scrolling="no"></iframe>
 
@@ -68,12 +68,26 @@ Special thanks to Liang Guozhou.
 
 --
 
-7.03--7.05 **Jiayuguan**
+7.02--7.03 **Jiayuguan**
+
+<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165869&authkey=AAww2fQsTRdFgto" width="320" height="180" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165870&authkey=ANXtPdyaT-vYOaQ" width="320" height="180" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165864&authkey=ABeRNxuJ9Sn9oxo" width="320" height="180" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165865&authkey=ACxZqeTAQ5cAo8M" width="320" height="180" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165866&authkey=AOfQ0eWR_XA2cUU" width="180" height="320" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165867&authkey=AEeh9KN8T9p4yE4" width="320" height="180" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165868&authkey=ADrEdqzVQE621FY" width="320" height="180" frameborder="0" scrolling="no"></iframe>
 
 --
 
-7.06--7.08 **Dunhuang**
+7.04--7.05 **Dunhuang**
 
 
-
+7.06--7.08 **Xian**
 ---
