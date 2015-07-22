@@ -66,7 +66,7 @@ Special thanks to Liang Guozhou.
 
 <iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165861&authkey=AKr9DlSfB2NbQ1k" width="320" height="180" frameborder="0" scrolling="no"></iframe>
 
---
+---
 
 7.02--7.03 **Jiayuguan**
 
@@ -84,10 +84,11 @@ Special thanks to Liang Guozhou.
 
 <iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165868&authkey=ADrEdqzVQE621FY" width="320" height="180" frameborder="0" scrolling="no"></iframe>
 
---
+---
 
 7.04--7.05 **Dunhuang**
 
 
 7.06--7.08 **Xian**
+
 ---
