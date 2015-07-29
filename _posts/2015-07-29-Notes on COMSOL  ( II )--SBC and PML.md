@@ -13,5 +13,6 @@ When solving wave electromagnetics problems, it is likely that you will want to 
 For 2D fields, Sommerfeld radiation condition, can be written as:
 
 $$
+\huge
 \lim_{r\rightarrow\infty}\sqrt{r}\left(\frac{\partial E_z}{\partial r}+ik_0E_z\right)=0
 $$
