@@ -35,6 +35,6 @@ Mathematically speaking, the PML is simply a domain that has an anisotropic and 
 
 The reflection from a PML with respect to incident angle as compared to the SBCs is shown in the following figure:
 
-<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165932&authkey=ADUHleFwoEOq1b0" width="380" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2165932&authkey=ADUHleFwoEOq1b0" width="380" height="245" frameborder="0" scrolling="no"></iframe>
 
 Clearly, the PML is the best of the approaches described here. However, the PML does use more memory as compared to the SBC.
