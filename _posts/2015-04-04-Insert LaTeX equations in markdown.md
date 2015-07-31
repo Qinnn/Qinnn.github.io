@@ -100,7 +100,6 @@ $$
 有人可能会遇到公式显示太小的情况，这时可以用$$\LaTeX$$的命令`\large`如果还嫌小可以用`\Large`:
 
 	$$
-	\Large
 	\begin{aligned} 
 	\dot{x} &= \sigma(y-x) \\ 
 	\dot{y} &= \rho x - y - xz \\ 

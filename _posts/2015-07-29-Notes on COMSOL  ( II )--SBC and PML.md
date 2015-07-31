@@ -13,21 +13,18 @@ When solving wave electromagnetics problems, it is likely that you will want to 
 For 2D fields, Sommerfeld radiation condition, can be written as:
 
 $$
-\huge
 \lim_{r\rightarrow\infty}\sqrt{r}\left(\frac{\partial E_z}{\partial r}+ik_0E_z\right)=0
 $$
 
 First-order scattering boundary condition (SBC):
 
 $$
-\huge
 \mathbf{n}\cdot(\nabla E_z)+ik_0E_z=0
 $$
 
 Second-order SBC
 
 $$
-\huge
 \mathbf{n}\cdot(\nabla E_z)+ik_0E_z-\frac{i}{2k_0}\nabla_t^2E_z=0
 $$
 
