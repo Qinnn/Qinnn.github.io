@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yinchun gets married"
+title: "Yinchuan gets married"
 categories:
 - Life
 tags:
