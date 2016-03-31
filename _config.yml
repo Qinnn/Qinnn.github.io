@@ -1,17 +1,17 @@
+# Site settings
+title: qin's page
+email: y.spring.qin@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Hello world, どうぞよろしく
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http:qinnn.github.io" # the base hostname & protocol for your site
+twitter_username: QinHeisenberg
+github_username:  qinnn
+
+# Build settings
 markdown: kramdown
 highlighter: pygments
-permalink: /:title/
-url: http://qinnn.github.io
-name: Qin's page
-author: Qin Yc
-qq: 949280422
-email: y.spring.qin@gmail.com
-duoshuo: qinnngithub.duoshuo.com
-#beian: 浙ICP备12026616号
-#cnzz: 119959
-weibo: 949280422
-github: Qinnn
-safe: true
-#paginate: 20
-#truncate: 300 #首页文字摘要
-paginate: 20 #首页分页
+paginate: 5
+
+author: qin
+gems: [jekyll-paginate]

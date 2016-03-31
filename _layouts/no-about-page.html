@@ -27,7 +27,6 @@
                   {% for category in page.categories limit:1 %}
                     <a href="#">{{ category }}</a>
                   {% endfor %}
-
         <!--
         <a href="#" class="author"><span class="name">Jane Doe</span><img src="images/avatar.jpg" alt="" /></a>
         -->
@@ -37,9 +36,6 @@
                 <a href="{{ page.url }}" class="image featured"><img src="{{page.image}}" alt="" /></a>
               {% endif %}
               {{ content }}
-
-              
-
               <footer>
                 <ul class="stats">
                 {% for tag in page.tags limit:3 %}
@@ -51,45 +47,8 @@
         <li><a href="#" class="icon fa-comment">128</a></li>
         -->
                 </ul>
-
               </footer>
-
-              <div id="disqus_thread"></div>
-                <script>
-                /**
-                * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-                * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-                */
-                /*
-                var disqus_config = function () {
-                this.page.url = PAGE_URL; // Replace PAGE_URL with your page's canonical URL variable
-                this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-                };
-                */
-                (function() { // DON'T EDIT BELOW THIS LINE
-                var d = document, s = d.createElement('script');
-
-                s.src = '//qinnngithub.disqus.com/embed.js';
-
-                s.setAttribute('data-timestamp', +new Date());
-                (d.head || d.body).appendChild(s);
-                })();
-                </script>
-                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-                
            </article>
-  					<ul class="actions pagination">
-  					  {% if page.previous %}
-  	  				  <li><a href="{{ page.previous.url }}" class="button big previous">Previous Post</a></li>
-  						{% else %}
-  						  <li><a href="#" class="disabled button big previous">Previous Post</a></li>
-  						{% endif %}
-							{% if page.next %}
-  						  <li><a href="{{ page.next.url }}" class="button big next">Next Post</a></li>
-  						{% else %}
-  						  <li><a href="#" class="disabled button big next">Next Post</a></li>
-  						{% endif %}
-  					</ul>
 					</div>
 
 				<!-- Sidebar -->
@@ -97,14 +56,6 @@
 
 						<!-- Intro -->
 						{% include intro.html %}
-
-						<!-- Mini Posts -->
-						{% include miniposts.html %}
-
-						<!-- Posts List -->
-
-						<!-- About -->
-					  {% include about.html %}
 
 						<!-- Footer -->
 						{% include footer.html %}

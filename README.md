@@ -1,5 +1,5 @@
-Hello, This is Qin’s blog
-------------------
+## A blog
 
-Qin's page is here: [Qin's page]('Qinnn.github.io')
+qin's blog
+
 
