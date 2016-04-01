@@ -63,7 +63,7 @@ forkosh上提供了关于$$\LaTeX$$公式的一份简短而很有用的帮助，
 
 kramdown是一个Markdown解析器，它能够正确解释公式内部的符号，不会与Markdown语法冲突，比如不会将`^`符号变成`<sup></sup>`标签。
 
-第二步 在header中添加引用和设置代码。
+####第二步 在header中添加引用和设置代码。
 
 也就是`_include/header.html`(有的可能应该是`_layouts/default.html`)中插入如下内容：
 
