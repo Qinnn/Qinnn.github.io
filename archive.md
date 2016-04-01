@@ -4,7 +4,7 @@ title: archive
 permalink: /archive/
 ---
 
-<h2>Archives</h2>
+<h2>Archive</h2>
 <ul>
   {% for post in site.posts %}
 
@@ -17,7 +17,7 @@ permalink: /archive/
         <h3>{{ post.date | date: '%Y' }}</h3>
       {% endif %}
     {% endunless %}
-
-    <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <!-- <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li> -->
+    <li><time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time> <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
