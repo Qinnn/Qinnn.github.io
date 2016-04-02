@@ -6,8 +6,6 @@ categories:
 tags:
 - LaTeX
 - Markdown
-
-
 ---
 Markdown自由书写的特性很好，唯独遇到数学公式时稍稍有些麻烦，
 本文的方法使用html的语法，调用一些公式生成API [1]，在线生成$$\LaTeX$$数学公式，免去将公式保存为图片的麻烦。弊端是： 公式太多时，可能会造成刷新比一般的网页慢一些。
@@ -18,7 +16,8 @@ Markdown自由书写的特性很好，唯独遇到数学公式时稍稍有些麻
 
 一个例子，
 
-	<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
+	<img src="http://chart.googleapis.com/chart?cht=tx&chl=
+	\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
 
 公式显示结果为：
 
