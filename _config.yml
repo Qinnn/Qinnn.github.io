@@ -12,6 +12,7 @@ github_username:  qinnn
 markdown: kramdown
 #highlighter: rouge
 paginate: 5
+pyments: true
 
 author: qin
 gems: [jekyll-paginate]
