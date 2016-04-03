@@ -10,12 +10,9 @@ github_username:  qinnn
 
 # Build settings
 markdown: kramdown
-#highlighter: rouge
+highlighter: rouge
 paginate: 5
-pyments: true
+
 
 author: qin
 gems: [jekyll-paginate]
-redcarpet:
-  extensions: [fenced_code_blocks]
-  render_options:
