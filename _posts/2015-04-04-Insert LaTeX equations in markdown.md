@@ -12,9 +12,7 @@ Markdown自由书写的特性很好，唯独遇到数学公式时稍稍有些麻
 
 ###方法一：使用Google Chart的服务器###
 
-'''html
-<img src="http://chart.googleapis.com/chart?cht=tx&chl= 在此插入Latex公式" style="border:none;">
-'''
+	<img src="http://chart.googleapis.com/chart?cht=tx&chl= 在此插入Latex公式" style="border:none;">
 
 一个例子，
 
