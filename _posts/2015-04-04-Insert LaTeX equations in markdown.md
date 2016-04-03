@@ -21,7 +21,9 @@ Markdown自由书写的特性很好，唯独遇到数学公式时稍稍有些麻
 
 公式显示结果为：
 
+'''html
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
+'''
 
 Google Chart服务器的响应速度还可以，但据说可能复杂一些的$$\LaTeX$$公式可能无法解析（参考[2]）。
 
