@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shell Tricks"
+title: Shell Tricks
 categories:
 - Technology
 tags:
