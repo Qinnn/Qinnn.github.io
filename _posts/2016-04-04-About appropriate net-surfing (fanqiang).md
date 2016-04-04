@@ -1,15 +1,16 @@
 ---
 layout: post
-title: “About appropriate net-surfing (fanqiang)”
+title: About appropriate net-surfing (fanqiang)
+categories: 
+- Technology
 date: 2016-04-04 19:13:58 +08:00
-categories:
--Technology
-tags:
+tags: 
 -onedrive
 -dropbox
 -goagent
 -vpn
 ---
+
 <img src="https://rtkcmq.dm2302.livefilestore.com/y3mWZD0RndlIDIPAFiBkGJGjnUqMJ4COLEDAjjjRW3yF0g_yz12DkKKM0LCYbLndUw7SGwuaJ8KM7jSqAPzGxS4Q6UfySsiXGyIBmf1FseB5Vmb373slbOwwdnkn9K8X5VhR56coPi_mZ4n0Cc-PJrhFwnCBn8NKWkRx0VCYPMyFXE?width=300&height=200&cropmode=none" width="300" height="200" />
 
 
