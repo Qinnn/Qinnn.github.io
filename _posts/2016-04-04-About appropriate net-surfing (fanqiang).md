@@ -25,9 +25,7 @@ tags:
 
 如果遇到权限问题可以先把host文件拖到桌面，添加好后再拖到原位置。完成后就可以打开上面的网页了。
 
-[Dropbox](https://www.dropbox.com) 是非常著名的云服务提供商，但是后来不知道什么原因被墙了，现在其网页需要翻墙才能打开了，本地的文件夹同步需要用一个DNS代理的软件，软件可在此处下载:
-
-<iframe src="https://onedrive.live.com/embed?cid=0769DCB84E94551A&resid=769DCB84E94551A%2169073&authkey=AKKNH5bF18joexc" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+[Dropbox](https://www.dropbox.com) 是非常著名的云服务提供商，但是后来不知道什么原因被墙了，现在其网页需要翻墙才能打开了，本地的文件夹同步需要用一个DNS代理的软件，软件可在[此处]([https://onedrive.live.com/redir?resid=769DCB84E94551A!69073&authkey=!AHrPOEKS2mrO5YY&ithint=file%2czip](https://onedrive.live.com/redir?resid=769DCB84E94551A!69073&authkey=!AHrPOEKS2mrO5YY&ithint=file%2czip))下载.
 
 当然云服务还有 [Google Drive]([https://www.google.com/drive/](https://www.google.com/drive/)), 毫无疑问也要先翻墙。
 
