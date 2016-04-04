@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Insert LaTeX equations in markdown "
+title: "Insert $$\LaTeX$$ equations in markdown "
 categories:
 - Technology
 tags:
@@ -68,7 +68,7 @@ forkosh上提供了关于$$\LaTeX$$公式的一份简短而很有用的帮助，
 
 	gem install kramdown
 
-kramdown是一个Markdown解析器，它能够正确解释公式内部的符号，不会与Markdown语法冲突，比如不会将`^`符号变成`<sup></sup>`标签。
+kramdown是一个Markdown解析器，它能够正确解释公式内部的符号，不会与Markdown语法冲突，比如不会将符号变成标签。
 
 第二步 在header中添加引用和设置代码。
 ----
