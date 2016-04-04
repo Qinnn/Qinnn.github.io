@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About appropriate net-surfing (fanqiang)
+title: “About appropriate net-surfing (fanqiang)”
 categories: 
 - Technology
 date: 2016-04-04 19:13:58 +08:00
@@ -37,6 +37,7 @@ tags:
 网上可以搜到一大把的配置教程， 这里就不具体说了， 但是有一个经常出现的问题就是同样的配置windows上面有很多goodip而OS X 上却一个都没有，到现在也没有找到原因。
 
 ###AWS EC2 + PPTP VPN####
+
 现在（201604）亚马逊的云服务 AWS / EC2 首年免费， 在上面创建一个ubuntu实例，然后安装 pptp 创建VPN， 具体方法网上也很容易搜索到，比如[这个]([http://blog.banban.me/blog/2014/06/09/li-yong-awsmian-fei-zhang-hu-da-jian-vpn/](http://blog.banban.me/blog/2014/06/09/li-yong-awsmian-fei-zhang-hu-da-jian-vpn/)) 和[这个]([http://zhao.jinhai.de/post/1810.html](http://zhao.jinhai.de/post/1810.html))
 
 ####各路付费的VPN####
