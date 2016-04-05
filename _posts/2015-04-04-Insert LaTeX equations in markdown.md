@@ -60,7 +60,7 @@ forkosh上提供了关于$$\LaTeX$$公式的一份简短而很有用的帮助，
 
 ### 第一步 将_config.yml中的markdown修改为
 
-### 第二步 在header中添加引用和设置代码。
+### 第二步 在header中添加引用和设置代码
 
 	markdown: kramdown
 
@@ -86,6 +86,7 @@ kramdown是一个Markdown解析器，它能够正确解释公式内部的符号�
 
 ### 第三步 在Markdown中使用$$\LaTeX$$数学公式
 
+### 第四步 在header中添加引用和设置代码。
 
 行内公式：`$$E=mc^2$$ is a inline formula`,效果为：$$E=mc^2$$ is a inline formula.
 
