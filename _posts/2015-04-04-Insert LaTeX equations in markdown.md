@@ -60,7 +60,6 @@ forkosh上提供了关于$$\LaTeX$$公式的一份简短而很有用的帮助，
 
 ### 第一步 将_config.yml中的markdown修改为
 
-### 第二步 在header中添加引用和设置代码
 
 	markdown: kramdown
 
