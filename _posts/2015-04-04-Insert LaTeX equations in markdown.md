@@ -10,19 +10,19 @@ tags:
 Markdown自由书写的特性很好，唯独遇到数学公式时稍稍有些麻烦，
 本文的方法使用html的语法，调用一些公式生成API [1]，在线生成$$\LaTeX$$数学公式，免去将公式保存为图片的麻烦。弊端是： 公式太多时，可能会造成刷新比一般的网页慢一些。
 
-方法一：使用Google Chart的服务器
-====
+##方法一：使用Google Chart的服务器
+
 
 	<img src="http://chart.googleapis.com/chart?cht=tx&chl= 在此插入Latex公式" style="border:none;">
 
 一个例子，
 
-```html
+``` html
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=
 \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
 ```
 
-### 公式显示结果为：
+公式显示结果为：
 
 
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
@@ -30,8 +30,8 @@ Markdown自由书写的特性很好，唯独遇到数学公式时稍稍有些麻
 
 Google Chart服务器的响应速度还可以，但据说可能复杂一些的$$\LaTeX$$公式可能无法解析（参考[2]）。
 
-方法二：使用forkosh服务器
-====
+## 方法二：使用forkosh服务器
+
 
 forkosh上提供了关于$$\LaTeX$$公式的一份简短而很有用的帮助，参考[1]和[3].
 
@@ -68,12 +68,12 @@ forkosh上提供了关于$$\LaTeX$$公式的一份简短而很有用的帮助，
 
 	gem install kramdown
 
-kramdown是一个Markdown解析器，它能够正确解释公式内部的符号，不会与Markdown语法冲突，比如不会将符号变成标签。
+kramdown是一个Markdown解析器，它能够正确解释公式内部的符号，不会与Markdown语法冲突，比如不会将`^`符号变成`<sup></sup>`标签。
 
 第二步 在header中添加引用和设置代码。
 ----
 
-也就是`_include/header.html`(有的可能应该是`_layouts/default.html`)中插入如下内容：
+也就是(有的可能应该是)中插入如下内容：
 
 	<script type="text/x-mathjax-config">
 	MathJax.Hub.Config({
