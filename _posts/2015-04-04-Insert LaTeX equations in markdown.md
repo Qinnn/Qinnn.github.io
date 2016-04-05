@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Insert $$\LaTeX$$ equations in markdown "
+title: "Insert LaTeX equations in markdown "
 categories:
 - Technology
 tags:
@@ -10,7 +10,7 @@ tags:
 Markdown自由书写的特性很好，唯独遇到数学公式时稍稍有些麻烦，
 本文的方法使用html的语法，调用一些公式生成API [1]，在线生成$$\LaTeX$$数学公式，免去将公式保存为图片的麻烦。弊端是： 公式太多时，可能会造成刷新比一般的网页慢一些。
 
-##方法一：使用Google Chart的服务器
+## 方法一：使用Google Chart的服务器
 
 
 	<img src="http://chart.googleapis.com/chart?cht=tx&chl= 在此插入Latex公式" style="border:none;">
@@ -50,8 +50,7 @@ forkosh上提供了关于$$\LaTeX$$公式的一份简短而很有用的帮助，
 
 因为网页插入公式的原理是调用“某某网站的服务器”动态生成的，所有保证公式正常显示的前提是该网址能一直存在着为我们做些小小的服务。
 
-方法三：使用MathJax引擎
-====
+## 方法三：使用MathJax引擎
 
 在网页中使用$$\LaTeX$$最流行的解决方案应该是MathJax。这是一个基于JavaScript的$$\LaTeX$$渲染引擎，它将网页中的$$\LaTeX$$公式转变成多个不同字体的文字或图片的组合。
 
@@ -59,8 +58,9 @@ forkosh上提供了关于$$\LaTeX$$公式的一份简短而很有用的帮助，
 
 唯一担心的是，$$\LaTeX$$中的一些符号，比如下划线会与Markdown中的下划线冲突，但似乎实用过程中又没遇到什么问题。
 
-第一步 将_config.yml中的markdown修改为
-----
+### 第一步 将_config.yml中的markdown修改为
+
+### 第二步 在header中添加引用和设置代码。
 
 	markdown: kramdown
 
@@ -70,8 +70,8 @@ forkosh上提供了关于$$\LaTeX$$公式的一份简短而很有用的帮助，
 
 kramdown是一个Markdown解析器，它能够正确解释公式内部的符号，不会与Markdown语法冲突，比如不会将`^`符号变成`<sup></sup>`标签。
 
-第二步 在header中添加引用和设置代码。
-----
+
+
 
 也就是(有的可能应该是)中插入如下内容：
 
@@ -84,8 +84,8 @@ kramdown是一个Markdown解析器，它能够正确解释公式内部的符号�
 		src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 	</script>
 
-第三步 在Markdown中使用$$\LaTeX$$数学公式
-----
+### 第三步 在Markdown中使用$$\LaTeX$$数学公式
+
 
 行内公式：`$$E=mc^2$$ is a inline formula`,效果为：$$E=mc^2$$ is a inline formula.
 
@@ -118,8 +118,8 @@ $$
 	\end{aligned} 
 	$$
 	
-参考
-====
+## 参考
+
 
 [1] [http://www.forkosh.com/mathtextutorial.html](http://www.forkosh.com/mathtextutorial.html)
 
