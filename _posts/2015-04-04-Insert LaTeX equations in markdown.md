@@ -16,9 +16,9 @@ Markdown自由书写的特性很好，唯独遇到数学公式时稍稍有些麻
 
 一个例子，
 
-<pre class="prettyprint lang-html">
-<img src="http://chart.googleapis.com/chart?cht=tx&chl=
-\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
+<pre class="prettyPrint lang-html">
+		<img src="http://chart.googleapis.com/chart?cht=tx&chl=
+		\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
 </pre>
 
 公式显示结果为：
